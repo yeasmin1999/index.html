@@ -40,12 +40,12 @@ body{
 }
 .btn{
 	background:dark;
-	color: #fff;
+	color: red;
 	padding: 5px 20px;
 	margin: 0 auto;
 	display: block;
 	border: none;
-	font-size: 25px;
+	font-size: 10px;
 	text-transform: uppercase;
 	transition: 0.5s ease-in-out
 	box-shadow: 2px 4px #ffffff;
